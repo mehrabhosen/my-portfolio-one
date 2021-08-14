@@ -1,0 +1,117 @@
+*{
+	margin: 0px;
+	padding:0px;
+}
+body{
+	background: rgba(153, 168, 141,0.2);
+
+}
+.container{
+	max-width: 1000px;
+	height: 100%;
+	background-color: cyan;
+	margin:0 auto;
+	padding: 20px;
+
+
+}
+.img{
+	height: 120px;
+	width: 100px;
+	border:2px solid black;
+	border-radius:50%;
+	float: left;
+}
+.header{
+	margin-left: 40px;
+	margin-top: 30px;
+
+	float: left;
+
+}
+h1,h3,h2,h4,h5,h6{
+	color:
+
+}
+.clear{
+	clear: both;
+}
+.hr{
+	border:2px solid black;
+	max-width: 1000px;
+	margin-top: 10px;
+}
+.about{
+	color: teal;
+	font-style:bold;
+	font-size: 30px;
+}
+.table{
+	border:3px solid gray;
+	width: 100%;
+	border-collapse: collapse;
+	background-color: maroon;
+	box-sizing: border-box;
+}
+th,td{
+	border:3px solid gray;
+}
+th{
+	background-color: green;
+	text-align: center;
+	color: tomato;
+	size: bold;
+	height: 40px;
+
+}
+td{
+	padding: 10px;
+}
+tr:hover{
+	background-color: tomato;
+
+}
+.other-skill{
+	box-sizing: border-box;
+	padding: 20px;
+	color: olive;
+	float: ;left;
+	
+}
+.coment{
+	box-sizing: border-box;
+	height: 30px;
+	width: 40px;
+	padding: 5px;
+	
+}
+.footer{
+   background-color:cyan;
+   
+
+
+
+
+       
+}
+ .footer ul{
+
+	
+	 }
+.footer ul li{
+ 	margin: 70px 20px 70px 20px;
+ 	list-style-type: none;
+ 	float: left;
+
+	
+   
+ }
+ .footer ul li a{
+	    text-decoration: none;
+		color: green;
+		font-size:30px;
+		
+		
+
+}
+
